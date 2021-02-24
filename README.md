@@ -76,3 +76,7 @@ git push origin master
 ```
 git pull origin master
 ```
+
+# try to get ssh authentication working
+
+
