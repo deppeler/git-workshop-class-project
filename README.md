@@ -1,4 +1,4 @@
-# Amazing Data Science Project
+# Fabulous Data Science Project
 
 * deb
 * beck
