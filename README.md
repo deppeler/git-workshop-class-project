@@ -19,6 +19,11 @@ git commit to confirm changes
 
 git restore --staged README.md
 
+# CREATE .gitignore file
+
+vi .gitignore
+results/
+
 # Some configuration to make things better
 
 git config --global user.name "Deb Deppeler"
