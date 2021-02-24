@@ -57,5 +57,5 @@ git push origin master
 # GitHub to csl
 
 ```
-git pull
+git pull origin master
 ```
