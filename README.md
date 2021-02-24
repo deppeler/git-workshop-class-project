@@ -1,5 +1,10 @@
 # Amazing Data Science Project
 
+* deb
+* beck
+* jim
+
+# INITIALIZE GIT REPO
 git init
 git status
 
@@ -10,6 +15,9 @@ create or change files
 git add to add files to tracked files
 git commit to confirm changes
 
+# UNSTAGE CHANGED FILES
+
+git restore --staged README.md
 
 # Some configuration to make things better
 
